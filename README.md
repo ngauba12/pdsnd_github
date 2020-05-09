@@ -14,5 +14,5 @@ Include the files used
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
 
-I had fun doing this project 
+I had fun doing this project
 learned how to use python practically.
